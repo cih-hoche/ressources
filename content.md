@@ -15,7 +15,7 @@ les languages ci-dessous sont triés du plus accessible au moins accessible.
 
 ##### Python
 
-- [Object oriented programming en python](https://www.educative.io/courses/learn-object-oriented-programming-in-python) (S'oppose au fonctionnal programming, ou l'on code avec des fonctions. Ici, on code avec des objets de classes. Ce cours t'apprendra à maîtriser les classes, un type très très important dans beaucoup de langages !)
+- [Object oriented programming en python](https://www.educative.io/courses/learn-object-oriented-programming-in-python) (S'oppose au procedural programming, ou l'on code avec des fonctions. Ici, on code avec des objets de classes. Ce cours t'apprendra à maîtriser les classes, un type très très important dans beaucoup de langages !)
 
 ---
 
